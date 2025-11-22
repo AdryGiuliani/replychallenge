@@ -1,7 +1,7 @@
-# AegisAI – Agentic Chronic Care Demo
-
+# CARE - Chronic-condition Agents for Real-time Evaluation
 This project showcases a small **agentic AI system** for chronic-condition monitoring, built with **LangGraph** and **LangChain**.
 
+![Diagram of the system](./diagram.png)
 It currently simulates a glucose-monitoring scenario, but the architecture is general enough to extend to other chronic diseases and signals.
 
 ---
