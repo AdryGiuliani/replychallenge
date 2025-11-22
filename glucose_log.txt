@@ -1,0 +1,5 @@
+2025-11-22T14:25:15.303589	reading=80.0	severity=low
+2025-11-22T14:25:16.308382	reading=85.0	severity=low
+2025-11-22T14:25:17.311925	reading=90.0	severity=low
+2025-11-22T14:25:18.316165	reading=110.0	severity=medium
+2025-11-22T14:25:19.319112	reading=150.0	severity=high
