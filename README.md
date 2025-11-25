@@ -4,7 +4,14 @@ This project showcases a small **agentic AI system** for chronic-condition monit
 ![Diagram of the system](./diagram.png)
 It currently simulates a glucose-monitoring scenario, but the architecture is general enough to extend to other chronic diseases and signals.
 
----
+# Competition Result
+
+This project earned second place at the **Reply Student Clash 2025 – Politecnico di Torino Tech Challenge**, part of the pan-European Reply Clash event series held across multiple universities in November 2025.
+The competition focused on agentic AI. Teams built deployable AI-agent systems under time and resource constraints.
+More than a thousand students participated across Europe.
+The scoring combined live project evaluations, case-study submissions, generative-AI tasks, and event-based challenges.
+Final rankings for each site were determined by technical quality, clarity of agent design, and applied impact.
+This system placed second within the Politecnico di Torino event after evaluation by Reply professionals across both the technical domain.
 
 ## Overview
 
